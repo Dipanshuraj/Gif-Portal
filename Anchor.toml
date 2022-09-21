@@ -1,0 +1,15 @@
+[features]
+seeds = false
+skip-lint = false
+[programs.devnet]
+gifportal = "yot5LzCfnQ1M2JBBCv64xMke24vGubZPKrqpPPzTGBo"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "devnet"
+wallet = "/Users/dipanshuraj/.config/solana/id.json"
+
+[scripts]
+test = "node tests/gifportal.js"

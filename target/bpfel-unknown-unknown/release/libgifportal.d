@@ -1,0 +1,1 @@
+/Users/dipanshuraj/Documents/Solana/DappProject/gifportal/target/bpfel-unknown-unknown/release/libgifportal.rlib: /Users/dipanshuraj/Documents/Solana/DappProject/gifportal/programs/gifportal/src/lib.rs
